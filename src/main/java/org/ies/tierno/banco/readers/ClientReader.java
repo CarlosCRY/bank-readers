@@ -1,4 +1,4 @@
-package org.ies.tierno.banco.reader;
+package org.ies.tierno.banco.readers;
 
 import org.ies.tierno.banco.model.Client;
 
