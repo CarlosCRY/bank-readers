@@ -1,7 +1,7 @@
 package org.ies.tierno.banco.reader;
 
-import org.example.bancooop.model.Account;
-import org.example.bancooop.model.Client;
+import org.ies.tierno.banco.model.Account;
+import org.ies.tierno.banco.model.Client;
 
 import java.util.Scanner;
 
